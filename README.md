@@ -7,7 +7,7 @@ I'm a passionate computer science student trying my best at development.
 - 📫 How to reach me: govindraghavendran1@gmail.com
 
 ### Connect with me:
-[![LinkedIn]([https://example.com/linkedin-icon.png](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png))](https://www.linkedin.com/in/govind-raghavendran-1074081b4/) 
+[![LinkedIn]([https://example.com/linkedin-icon.png](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png))] (https://www.linkedin.com/in/govind-raghavendran-1074081b4/) 
 
 ### Languages and Tools:
 [![Your Tools and Languages](https://example.com/badges.png)]
